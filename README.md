@@ -11,4 +11,4 @@ Kosovnica:\
 •	Protoboard\
 •	Žičke\
 •	Baterija\
-Program deluje po pričakovanjih. Samo točnost sva preverila tudi z drugim merilnikom. Napaka je relativno majhna. Poleg meritve sva dodala še indikator stopnje glasnosti, ki nam izpiše kako velika je možnost, da nam glasnost škodi. Upava še na kakšen projekt s podobno vsebino.
+Program deluje po pričakovanjih. Samo točnost sva preverila tudi z drugim merilnikom. Napaka je relativno majhna. Vendar pa nastaja ti. prebijanje frekvenc oz. mikrofonija. Zato se opazijo zelo velike spremembe v merjenju. Verjetno bi z bolj zanesljivim mikrofonom zmanjšala napake. Poleg meritve sva dodala še indikator stopnje glasnosti, ki nam izpiše kako velika je možnost, da nam glasnost škodi. Upava še na kakšen projekt s podobno vsebino.
